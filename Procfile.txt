@@ -1,1 +1,1 @@
-Worker: node ./bobby-brown/index.js
+Worker: node . index.js
